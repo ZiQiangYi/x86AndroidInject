@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>H:\linuxinject\NFAttach\libs\x86\libattach.so;</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>H:\linuxinject\NFAttach\\obj\local\x86</OObjPaths>
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture />
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>

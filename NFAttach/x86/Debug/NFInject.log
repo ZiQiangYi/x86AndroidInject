@@ -1,0 +1,3 @@
+﻿  [x86] Compile++      : inject <= inject.cpp
+  [x86] Executable     : inject
+  [x86] Install        : inject => libs/x86/inject

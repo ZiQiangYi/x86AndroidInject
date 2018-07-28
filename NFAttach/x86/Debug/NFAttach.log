@@ -1,0 +1,5 @@
+﻿  [x86] Clean          : android_support [x86]
+  [x86] Clean          : attach [x86]
+  [x86] Clean          : c++_shared [x86]
+  [x86] Clean          : c++_static [x86]
+  [x86] Clean          : c++abi [x86]

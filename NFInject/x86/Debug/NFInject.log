@@ -1,0 +1,3 @@
+﻿  [x86] Clean          : inject [x86]
+  [x86] Clean          : stlport_shared [x86]
+  [x86] Clean          : stlport_static [x86]
